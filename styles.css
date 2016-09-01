@@ -1,0 +1,43 @@
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+h2 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+h3 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+p {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+body {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  text-align: center;
+}
+
+#employment h3 {
+  text-align: left;
+}
+
+#employment ul {
+  text-align: left;
+}
+
+.section_heading {
+  display: block;
+  font-weight: bold;
+}
+
+img {
+  margin: 20px;
+}
